@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/18ofWcAkbGCMm7lUyz55HtTmipwCz6s1O/view?usp=sharing](https://drive.google.com/file/d/18ofWcAkbGCMm7lUyz55HtTmipwCz6s1O/view?usp=sharing)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hafsamubarak&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hafsamubarak&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsamubarak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
