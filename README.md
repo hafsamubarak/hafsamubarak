@@ -18,6 +18,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18ofWcAkbGCMm7lUyz55HtTmipwCz6s1O/view?usp=sharing](https://drive.google.com/file/d/18ofWcAkbGCMm7lUyz55HtTmipwCz6s1O/view?usp=sharing)
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-hafsamubarak&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hafsa-ahmed96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hafsa-ahmed96/" height="30" width="40" /></a>
